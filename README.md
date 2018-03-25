@@ -4,4 +4,4 @@ My personal algorithm exercises.
 
 ## License
 
-[Unlicense](LICENSE)
+The [Unlicense](LICENSE).
